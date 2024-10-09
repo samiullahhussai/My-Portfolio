@@ -26,8 +26,13 @@ const router = createBrowserRouter([
         {
           path: "/Contact",
           element: <Contack/>,
-          }
-]);
+          },
+          
+],
+{
+  basename: "/My-Portfolio",  // Set your base name here
+}
+);
 
 createRoot(document.getElementById('root')).render(
   <RouterProvider router={router} />

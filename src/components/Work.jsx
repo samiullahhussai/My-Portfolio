@@ -19,9 +19,7 @@ function Work() {
                     {/* ba sgrpup ko h and w ni dia.  */}
                     <div className="card shadow-2xl w-80 h-[500px] dark:bg-black dark:text-white dark:border dark:border-white bg-blue-50" >
                         <figure className='group relative overflow-hidden '>
-                            <img
-                                src="/weather.png"
-                                alt="Shoes" className='w-[320px] h-[350px]' />
+                            <img src="./weather.png" alt="Weather"  className='w-[320px] h-[350px]' />
                             <div className='absolute left-0 right-0 bottom-[100%] group-hover:bottom-[0%]  overflow-hidden transition-all duration-1000 ease-in-out  text-center rounded-2xl  bg-slate-100 bg-opacity-30 w-[320px] h-[350px] '>
                             </div>
                             <a href="https://github.com/samiullahhussai/weather.git " className='absolute top-[50%] left-[35%] text-2xl font-bold hidden group-hover:block transition-all duration-1000 ease-in-out delay-500' target='blank' >Github Link</a>
@@ -40,7 +38,7 @@ function Work() {
                     <div className="card bg-blue-50 shadow-2xl w-80 h-[500px] dark:bg-black dark:text-white dark:border dark:border-white" data-aos="fade-up">
                         <figure className='group relative overflow-hidden '>
                             <img
-                                src="/clock.png"
+                                src="./clock.png"
                                 alt="Shoes" className='w-[320px] h-[350px] rounded-2xl' />
                             <div className='absolute left-0 right-0 bottom-[100%] group-hover:bottom-[0%]  overflow-hidden transition-all duration-1000 ease-in-out  text-center rounded-2xl  bg-slate-100 bg-opacity-30 w-[320px] h-[350px] '>
                             </div>
@@ -60,7 +58,7 @@ function Work() {
                     <div className="card bg-blue-50 shadow-2xl w-80 h-[500px] dark:bg-black dark:text-white dark:border dark:border-white" data-aos="fade-left">
                         <figure className='group relative overflow-hidden '>
                             <img
-                                src="/sami.jpeg"
+                                src="./sami.jpeg"
                                 alt="Shoes" className='w-[320px] h-[350px]' />
                             <div className='absolute left-0 right-0 bottom-[100%] group-hover:bottom-[0%]  overflow-hidden transition-all duration-1000 ease-in-out  text-center rounded-2xl  bg-slate-100 bg-opacity-30 w-[320px] h-[350px] '>
                             </div>
